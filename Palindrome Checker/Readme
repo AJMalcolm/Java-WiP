@@ -1,0 +1,6 @@
+This task was to create a program which would accept a string input (or hard-coded string) to be tested for being a Palindrome.
+A palindrome is a mirrored word that reads the same forwards or backwards.
+
+The stipulations were that the string must be at least 3 characters long and that it could not be null.
+
+The second part of the task was to output the longest palindrome within a sentence of multiple words.
